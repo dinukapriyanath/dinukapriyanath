@@ -1,78 +1,59 @@
-<h1 align="center">Hi 👋, I'm Dinuka Priyanath</h1>
-<h3 align="center">Full Stack Developer | Software Engineering Student | Sri Lanka</h3>
+# Hi 👋 I'm Dinuka Priyanath
 
-<p align="center">
-Passionate about building modern web applications, intelligent systems, and scalable software solutions.
-</p>
+💻 Full Stack Developer  
+🎓 Computing Student  
+🌍 Sri Lanka  
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final Year Computing Student
-- 💻 Full Stack Developer (React / Next.js / Node.js)
-- 🌱 Currently learning **Advanced Web Development & AI Systems**
-- 🔭 Working on **Modern Web Applications & Smart Systems**
-- 🎯 Goal: Become a **Professional Software Engineer**
+I am a passionate developer interested in building modern web applications and intelligent systems. I enjoy working with modern technologies like React, Next.js and AI-based solutions.
+
+- 🌱 Currently learning: Next.js & Advanced Web Development
+- 💡 Interested in: AI, Web Applications, System Design
+- 🎯 Goal: Become a professional Software Engineer
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
-- JavaScript
-- TypeScript
-- HTML5 / CSS3
+Frontend  
+React  
+Next.js  
+JavaScript  
+TypeScript  
+Tailwind CSS  
 
-### Backend
-- Node.js
-- Express.js
+Backend  
+Node.js  
+Express  
 
-### Databases
-- MySQL
-- MongoDB
+Database  
+MySQL  
+MongoDB  
 
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Figma
+Tools  
+Git  
+GitHub  
+VS Code  
 
 ---
 
-## 📊 GitHub Stats
-
-![Dinuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinukapriyanath&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinukapriyanath&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Featured Projects
+## 📌 Featured Projects
 
 ### 🍽 Ceylon Spice Bites Restaurant Website
-Modern restaurant website built using **Next.js, Tailwind CSS, and TypeScript**.
+Modern restaurant website using Next.js and TailwindCSS.
 
 ### 🚗 Vehicle GPS Tracking System
-Smart vehicle tracking system designed for **Urban Council monitoring and transparency**.
+Smart vehicle tracking system developed for Urban Council.
 
 ### 🐟 Fishermen Support Mobile App
-Mobile platform helping fishermen with:
-- Weather updates
-- Market price tracking
-- Fish selling support
+A mobile system that helps fishermen track weather, market prices and sell fish.
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/dinuka-priyanath
-- Portfolio: (Add your portfolio link)
-- Email: (Add your email)
-
----
-
-⭐ From [dinukapriyanath](https://github.com/dinukapriyanath)
+LinkedIn: https://linkedin.com/in/dinuka-priyanath  
+Portfolio: (Add your portfolio link here)
